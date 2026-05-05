@@ -1,4 +1,4 @@
-rootProject.name = "MiPimeraApp"
+rootProject.name = "composedemo"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
